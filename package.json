@@ -22,5 +22,8 @@
     "nightwatch": "^1.0.18",
     "nightwatch-api": "latest",
     "start-server-and-test": "^1.7.11"
+  },
+  "dependencies": {
+    "request": "^2.88.0"
   }
 }
